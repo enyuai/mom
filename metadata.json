@@ -1,0 +1,6 @@
+{
+  "name": "全胃切除术后康复管理系统",
+  "description": "包含患者移动端打卡原型与医生后台图表系统的康复管理平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
